@@ -1,0 +1,22 @@
+/* .photo{
+    float: left;
+    width: 50%;
+    
+
+}
+.details{
+    width: 50%;
+    float: left;
+    
+} */
+.button{
+    background-color: dodgerblue;
+    border: none;
+    width: 140px;
+    height: 90px;
+    text-align: center;
+    font-size: 24px;
+    border-radius:12px ;
+
+}
+
